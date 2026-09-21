@@ -1,0 +1,27 @@
+body{
+    background-color: #65081F;
+    font-family: Times New Roman, serif;
+    color: white;
+    margin: 0;
+}
+header{
+    background-color: #3c3b3b;
+    color: black;
+    padding: 40px 20px;
+    text-align: center;
+}
+nav a {
+    color: #65081F;
+    margin: 0 15px;
+}
+
+section {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h2 {
+    color: #65081F;
+    margin-bottom: 20px;
+}
